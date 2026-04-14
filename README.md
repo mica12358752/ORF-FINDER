@@ -15,6 +15,8 @@ A Python-based tool designed to identify Open Reading Frames (ORFs) in DNA seque
    cd ORF-FINDER
 
   **set the environment** 
+
+  
 2. **It is recommended to use a virtual environment:**
 
 Bash
