@@ -14,8 +14,7 @@ A Python-based tool designed to identify Open Reading Frames (ORFs) in DNA seque
    git clone [https://github.com/mica12358752/ORF-FINDER.git](https://github.com/mica12358752/ORF-FINDER.git)
    cd ORF-FINDER
 
-   Set up the environment:
-   
+  **set the environment** 
 2. **It is recommended to use a virtual environment:**
 
 Bash
