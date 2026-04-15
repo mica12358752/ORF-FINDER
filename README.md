@@ -19,16 +19,19 @@ A Python-based tool designed to identify Open Reading Frames (ORFs) in DNA seque
   
 2. **It is recommended to use a virtual environment:**
 
-Bash
+Bash:
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 Install dependencies:
 
-Bash
+Bash:
 pip install -r requirements.txt
 
 Usage
 Explain briefly how to run your script. For example:
 
-Bash
+Bash:
 python main.py --input sequence.fasta
+
+To Run:
+python script.py
